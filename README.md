@@ -1,1 +1,1 @@
-# rps-project
+# Rock Paper Scissors Project
